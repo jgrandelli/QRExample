@@ -1,0 +1,11 @@
+
+PODS: 
+- iOS-QR-Code-Encoder (0.0.1)
+
+SPEC CHECKSUMS: 
+  iOS-QR-Code-Encoder: f2dfa7b35d42871a3f338d5d6842d7bc79e020d1
+
+COCOAPODS: 0.16.4
+
+DEPENDENCIES: 
+- iOS-QR-Code-Encoder (~> 0.0.1)
